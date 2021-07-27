@@ -1,0 +1,5 @@
+{% for msg in messages %}
+<div class="msg">
+    [{{msg.time}}] {{ render_username(user_id=msg.user_id) }}: {{msg.text}}
+</div>
+{% endfor %}

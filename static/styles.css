@@ -1,0 +1,33 @@
+.channels {
+    background-color: black;
+    color: white;
+    flex: 0 0 300px;
+    overflow-y: auto;
+    max-height: 100vh;
+}
+
+.channel {
+    padding: 1px 15px;
+}
+
+.channel a {
+    color: white;
+}
+
+.channel::before {
+    content: '#';
+}
+
+.content {
+    background-color: black;
+    color: white;
+}
+
+.history {
+    overflow-y: auto;
+    max-height: 100vh;
+}
+
+body, html {
+    overflow: hidden;
+}

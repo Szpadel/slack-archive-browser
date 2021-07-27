@@ -1,0 +1,5 @@
+<div class="channels column">
+    {% for channel in channels %}
+    <div class="channel"><a href="/{{channel.id}}">{{channel.name}}</a></div>
+    {% endfor %}
+</div>

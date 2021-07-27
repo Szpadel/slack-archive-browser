@@ -1,0 +1,2906 @@
+[
+    {
+        "client_msg_id": "bd528992-f5d7-464e-992a-a066e1c69db6",
+        "type": "message",
+        "text": "Okay that is a very interesting approach",
+        "user": "UPK42PDDL",
+        "ts": "1602404763.211500",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "g131f94b3210",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/131f94b32105d62a5f84716609dbe93f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "CrystallDEV",
+            "display_name": "CrystallDEV",
+            "team": "T0HJCPP9T",
+            "name": "m.hasselder",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "onT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay that is a very interesting approach"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6c6e98eb-efdf-4d49-86d0-038f84c84838",
+        "type": "message",
+        "text": "I have heard of people losing their code base before",
+        "user": "U2YK0LBMZ",
+        "ts": "1602404793.212300",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "e50d35e1730b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-22\/352192423063_e50d35e1730b78fb8936_72.png",
+            "first_name": "Lawrence",
+            "real_name": "Lawrence Farrell",
+            "display_name": "slowmotionghost",
+            "team": "T0HJCPP9T",
+            "name": "slowmotionghost",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GGmJX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have heard of people losing their code base before"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ba840c0-07b5-49a7-808c-90a0b60a0125",
+        "type": "message",
+        "text": "I nervously back up mine after major changes",
+        "user": "U2YK0LBMZ",
+        "ts": "1602404809.212800",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "e50d35e1730b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-22\/352192423063_e50d35e1730b78fb8936_72.png",
+            "first_name": "Lawrence",
+            "real_name": "Lawrence Farrell",
+            "display_name": "slowmotionghost",
+            "team": "T0HJCPP9T",
+            "name": "slowmotionghost",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oqk6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I nervously back up mine after major changes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "18467b76-d1b3-4267-bd46-b18f38b56c3a",
+        "type": "message",
+        "text": "Have you guys ever heard of git? :smile:",
+        "user": "UPK42PDDL",
+        "ts": "1602404832.213200",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "g131f94b3210",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/131f94b32105d62a5f84716609dbe93f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "CrystallDEV",
+            "display_name": "CrystallDEV",
+            "team": "T0HJCPP9T",
+            "name": "m.hasselder",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RN+ek",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have you guys ever heard of git? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47f01bcf-8520-4e07-a6c9-96dc565b479c",
+        "type": "message",
+        "text": "I couldn't get on with the delay, I much prefer working on live",
+        "user": "U2YK0LBMZ",
+        "ts": "1602404873.214200",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "e50d35e1730b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-22\/352192423063_e50d35e1730b78fb8936_72.png",
+            "first_name": "Lawrence",
+            "real_name": "Lawrence Farrell",
+            "display_name": "slowmotionghost",
+            "team": "T0HJCPP9T",
+            "name": "slowmotionghost",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pa8E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I couldn't get on with the delay, I much prefer working on live"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e8e6660-5a66-413e-9c92-0088671422c4",
+        "type": "message",
+        "text": "What delay?",
+        "user": "UPK42PDDL",
+        "ts": "1602404893.215000",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "g131f94b3210",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/131f94b32105d62a5f84716609dbe93f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "CrystallDEV",
+            "display_name": "CrystallDEV",
+            "team": "T0HJCPP9T",
+            "name": "m.hasselder",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G209",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What delay?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "07ea606b-0651-4a0a-b0d8-97d350dc99ef",
+        "type": "message",
+        "text": "The only time I used it was alongside the in built screeps github sync",
+        "user": "U2YK0LBMZ",
+        "ts": "1602404968.215700",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "e50d35e1730b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-22\/352192423063_e50d35e1730b78fb8936_72.png",
+            "first_name": "Lawrence",
+            "real_name": "Lawrence Farrell",
+            "display_name": "slowmotionghost",
+            "team": "T0HJCPP9T",
+            "name": "slowmotionghost",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c8C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The only time I used it was alongside the in built screeps github sync"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6299030c-7a1b-4809-85ac-c06d0b1f8be8",
+        "type": "message",
+        "text": "Which caused a bit of delay from changes etc",
+        "user": "U2YK0LBMZ",
+        "ts": "1602405028.217200",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "e50d35e1730b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-22\/352192423063_e50d35e1730b78fb8936_72.png",
+            "first_name": "Lawrence",
+            "real_name": "Lawrence Farrell",
+            "display_name": "slowmotionghost",
+            "team": "T0HJCPP9T",
+            "name": "slowmotionghost",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wmo2j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Which caused a bit of delay from changes etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22517aaa-901c-44de-93e2-1e9a7ae5d415",
+        "type": "message",
+        "text": "Maybe I was using it wrong",
+        "user": "U2YK0LBMZ",
+        "ts": "1602405035.217500",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "e50d35e1730b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-22\/352192423063_e50d35e1730b78fb8936_72.png",
+            "first_name": "Lawrence",
+            "real_name": "Lawrence Farrell",
+            "display_name": "slowmotionghost",
+            "team": "T0HJCPP9T",
+            "name": "slowmotionghost",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6sl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe I was using it wrong"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "516084f2-012f-417d-a8ed-946191b78b64",
+        "type": "message",
+        "text": "You should really read up on git",
+        "user": "UPK42PDDL",
+        "ts": "1602405043.217800",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "g131f94b3210",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/131f94b32105d62a5f84716609dbe93f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "CrystallDEV",
+            "display_name": "CrystallDEV",
+            "team": "T0HJCPP9T",
+            "name": "m.hasselder",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rfLgI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You should really read up on git"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c035e896-8a9a-46f3-b53b-83d79be1e847",
+        "type": "message",
+        "text": "Git is a code versioning system where you push your code once you made significant changes. For example adding a new role, fixing a bug or whatever. So even after working 2 years on a codebase you can still see how the code was 2 years ago",
+        "user": "UPK42PDDL",
+        "ts": "1602405089.218700",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "g131f94b3210",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/131f94b32105d62a5f84716609dbe93f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "CrystallDEV",
+            "display_name": "CrystallDEV",
+            "team": "T0HJCPP9T",
+            "name": "m.hasselder",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nQVN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Git is a code versioning system where you push your code once you made significant changes. For example adding a new role, fixing a bug or whatever. So even after working 2 years on a codebase you can still see how the code was 2 years ago"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e82f8129-0b34-4dd2-b130-e9713f0f8d19",
+        "type": "message",
+        "text": "you can still code normally in your IDE you can still push instant the changes you did to the screeps servers, but you simply have a backup and versioning on your code",
+        "user": "UPK42PDDL",
+        "ts": "1602405138.219300",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "g131f94b3210",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/131f94b32105d62a5f84716609dbe93f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "CrystallDEV",
+            "display_name": "CrystallDEV",
+            "team": "T0HJCPP9T",
+            "name": "m.hasselder",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y9tt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can still code normally in your IDE you can still push instant the changes you did to the screeps servers, but you simply have a backup and versioning on your code"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fad4e1bf-e999-4805-a078-c4edf640dd7c",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=USjZcfj8yxE>",
+        "user": "UPK42PDDL",
+        "ts": "1602405186.219500",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "g131f94b3210",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/131f94b32105d62a5f84716609dbe93f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "CrystallDEV",
+            "display_name": "CrystallDEV",
+            "team": "T0HJCPP9T",
+            "name": "m.hasselder",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Learn Git In 15 Minutes",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=USjZcfj8yxE",
+                "author_name": "Colt Steele",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCrqAGUPPMOdo0jfQ6grikZw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/USjZcfj8yxE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Learn Git In 15 Minutes",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/USjZcfj8yxE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=USjZcfj8yxE",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=USjZcfj8yxE"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oUw0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=USjZcfj8yxE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d2c4440-9f66-4dce-ae5b-3e1b512e7af0",
+        "type": "message",
+        "text": "Or if you want a short one in 100 seconds:\n<https:\/\/www.youtube.com\/watch?v=hwP7WQkmECE>",
+        "user": "UPK42PDDL",
+        "ts": "1602405343.220000",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "g131f94b3210",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/131f94b32105d62a5f84716609dbe93f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "CrystallDEV",
+            "display_name": "CrystallDEV",
+            "team": "T0HJCPP9T",
+            "name": "m.hasselder",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Git Explained in 100 Seconds",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=hwP7WQkmECE",
+                "author_name": "Fireship",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCsBjURrPoezykLs9EqgamOA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/hwP7WQkmECE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Git Explained in 100 Seconds",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/hwP7WQkmECE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=hwP7WQkmECE",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=hwP7WQkmECE"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p6l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or if you want a short one in 100 seconds:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=hwP7WQkmECE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23d6e63e-d60b-48ef-b072-162a43c2540f",
+        "type": "message",
+        "text": "Sometimes I use the browser because I'm not on my own computer, how would I push the changes on to git then?",
+        "user": "U2YK0LBMZ",
+        "ts": "1602405770.222700",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "e50d35e1730b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-22\/352192423063_e50d35e1730b78fb8936_72.png",
+            "first_name": "Lawrence",
+            "real_name": "Lawrence Farrell",
+            "display_name": "slowmotionghost",
+            "team": "T0HJCPP9T",
+            "name": "slowmotionghost",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w6yT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sometimes I use the browser because I'm not on my own computer, how would I push the changes on to git then?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0666f323-20b3-44b8-8008-f42be096f23b",
+        "type": "message",
+        "text": "Um, I would never recommend you to code in the browser or in the \"IDE\" of screeps.",
+        "user": "UPK42PDDL",
+        "ts": "1602405874.223700",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "g131f94b3210",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/131f94b32105d62a5f84716609dbe93f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "CrystallDEV",
+            "display_name": "CrystallDEV",
+            "team": "T0HJCPP9T",
+            "name": "m.hasselder",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9tu2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Um, I would never recommend you to code in the browser or in the \"IDE\" of screeps."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3c5c528-1e9d-417f-9fd0-0997e71a93ce",
+        "type": "message",
+        "text": "If you still wanna do that, then you can clone your code from github into the screeps code folder and then make the changes in there and then push the changes back to github or any other platform",
+        "user": "UPK42PDDL",
+        "ts": "1602405915.224400",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "g131f94b3210",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/131f94b32105d62a5f84716609dbe93f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "CrystallDEV",
+            "display_name": "CrystallDEV",
+            "team": "T0HJCPP9T",
+            "name": "m.hasselder",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kwImx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you still wanna do that, then you can clone your code from github into the screeps code folder and then make the changes in there and then push the changes back to github or any other platform"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb979c76-92f5-4cbd-8b3c-efa99a7f4ff1",
+        "type": "message",
+        "text": "Not sure if screeps is saving the browsercode in AppData too or if its simply saved in the broswer cache",
+        "user": "UPK42PDDL",
+        "ts": "1602406015.224900",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "g131f94b3210",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/131f94b32105d62a5f84716609dbe93f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "CrystallDEV",
+            "display_name": "CrystallDEV",
+            "team": "T0HJCPP9T",
+            "name": "m.hasselder",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BB8Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not sure if screeps is saving the browsercode in AppData too or if its simply saved in the broswer cache"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87172894-3569-4046-9ed9-56184882cbbb",
+        "type": "message",
+        "text": "Well I have managed ok up till now, thank you for your concern though",
+        "user": "U2YK0LBMZ",
+        "ts": "1602406251.226400",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "e50d35e1730b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-22\/352192423063_e50d35e1730b78fb8936_72.png",
+            "first_name": "Lawrence",
+            "real_name": "Lawrence Farrell",
+            "display_name": "slowmotionghost",
+            "team": "T0HJCPP9T",
+            "name": "slowmotionghost",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "INh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well I have managed ok up till now, thank you for your concern though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c681d644-0a32-4a04-90b4-d298776da027",
+        "type": "message",
+        "text": "You can create a simlink between where you keep your local copy of your Git repo and where the Steam client keeps the code. If you edit in the browser, as soon as you sync it with the client, you can commit it.",
+        "user": "U4DRMPN21",
+        "ts": "1602406981.233400",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "69326b7c8b53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-09\/269436571825_69326b7c8b538091ccaf_72.png",
+            "first_name": "Edu",
+            "real_name": "Edu Ter",
+            "display_name": "eduter",
+            "team": "T0HJCPP9T",
+            "name": "eduter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dwP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can create a simlink between where you keep your local copy of your Git repo and where the Steam client keeps the code. If you edit in the browser, as soon as you sync it with the client, you can commit it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "441df2cd-5ad3-4a5c-b9c2-45d61a34e64c",
+        "type": "message",
+        "text": "Hmm ok, may be worth looking at, thanks",
+        "user": "U2YK0LBMZ",
+        "ts": "1602407538.233800",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "e50d35e1730b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-22\/352192423063_e50d35e1730b78fb8936_72.png",
+            "first_name": "Lawrence",
+            "real_name": "Lawrence Farrell",
+            "display_name": "slowmotionghost",
+            "team": "T0HJCPP9T",
+            "name": "slowmotionghost",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zlG4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmm ok, may be worth looking at, thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "337d6fe1-3945-48bc-ab46-ccc73730ff2c",
+        "type": "message",
+        "text": "Git is not only for backups. I just can't code without it anymore. With it and some editor integration, you can see exactly which lines you changed since the last commit, you can easily try something on a branch, then go back to your main code, you can track when something broke, to find out how to fix it, etc.",
+        "user": "U4DRMPN21",
+        "ts": "1602409312.240900",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "69326b7c8b53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-09\/269436571825_69326b7c8b538091ccaf_72.png",
+            "first_name": "Edu",
+            "real_name": "Edu Ter",
+            "display_name": "eduter",
+            "team": "T0HJCPP9T",
+            "name": "eduter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8mZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Git is not only for backups. I just can't code without it anymore. With it and some editor integration, you can see exactly which lines you changed since the last commit, you can easily try something on a branch, then go back to your main code, you can track when something broke, to find out how to fix it, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "plusplus",
+                "users": [
+                    "U2YK0LBMZ",
+                    "UPK42PDDL",
+                    "UR6EPBGBX"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1602410142.247900",
+        "user": "U01D15GEM2L",
+        "text": "<@U01D15GEM2L> has joined the channel"
+    },
+    {
+        "client_msg_id": "564da654-0e1c-4318-aea7-aae7974de169",
+        "type": "message",
+        "text": "git and grunt is very attractive. As a new player who is learning via screeps, there's definitely a barrier to it's usage. The getting started pages are long and assume previous knowledge or experience. I feel like i should've had this sorted from the start but when all you want to do is start coding and the built in IDE is right there. Now it's a month later, i've got 20+ modules with no file structure and use atom to lint instead of push.  I've committed myself to getting it sorted today...",
+        "user": "U019ZF8C0J3",
+        "ts": "1602410209.248700",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "817bbfcc6825",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-11\/1420811873186_817bbfcc68257a5a5d82_72.jpg",
+            "first_name": "",
+            "real_name": "TheHemp",
+            "display_name": "TheHemp",
+            "team": "T0HJCPP9T",
+            "name": "jmak123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZRxV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git and grunt is very attractive. As a new player who is learning via screeps, there's definitely a barrier to it's usage. The getting started pages are long and assume previous knowledge or experience. I feel like i should've had this sorted from the start but when all you want to do is start coding and the built in IDE is right there. Now it's a month later, i've got 20+ modules with no file structure and use atom to lint instead of push.  I've committed myself to getting it sorted today..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b66adeff-a1eb-49d8-a426-4ef2faca14a4",
+        "type": "message",
+        "text": "sadly javascript 'build' tooling is ever changing and constantly breaking and finicky making each project a snowflake. Other environments do this much better where it just works and doesn't require much attention unless you have special needs",
+        "user": "U4XGEJ45S",
+        "ts": "1602411835.250500",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "gd3be27a0229",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd3be27a0229d0e7ee83f50a96263952.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "TuN9aN0",
+            "real_name": "TuN9aN0",
+            "display_name": "tungano",
+            "team": "T0HJCPP9T",
+            "name": "tungano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5sF7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sadly javascript 'build' tooling is ever changing and constantly breaking and finicky making each project a snowflake. Other environments do this much better where it just works and doesn't require much attention unless you have special needs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e195f6b0-d74a-466a-bdde-f376c7e36f2d",
+        "type": "message",
+        "text": "I pretty much stick to the screeps typescript starter setup so it doesn't draw my time constantly. If you are not using typescript I would still recommend the rollup setup it has. Until rollup runs out of fashion within a year or so of course..",
+        "user": "U4XGEJ45S",
+        "ts": "1602411930.251800",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "gd3be27a0229",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd3be27a0229d0e7ee83f50a96263952.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "TuN9aN0",
+            "real_name": "TuN9aN0",
+            "display_name": "tungano",
+            "team": "T0HJCPP9T",
+            "name": "tungano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eI8l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I pretty much stick to the screeps typescript starter setup so it doesn't draw my time constantly. If you are not using typescript I would still recommend the rollup setup it has. Until rollup runs out of fashion within a year or so of course.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59b7cfd2-df2d-4b1a-ad49-c1826435afaa",
+        "type": "message",
+        "text": "Fashion doesn't make it not function though",
+        "user": "U46AY6Q83",
+        "ts": "1602411959.252000",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b2485d8d6552",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-13\/153112539905_b2485d8d65529b72bd00_72.png",
+            "first_name": "T",
+            "real_name": "T igga",
+            "display_name": "Tigga",
+            "team": "T0HJCPP9T",
+            "name": "tigga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3BI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fashion doesn't make it not function though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3209f5e2-005f-43a9-a7df-ab0e10bbd085",
+        "type": "message",
+        "text": "it used to use webpack and I did migrate along even though it sort of worked..",
+        "user": "U4XGEJ45S",
+        "ts": "1602412051.252500",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "gd3be27a0229",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd3be27a0229d0e7ee83f50a96263952.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "TuN9aN0",
+            "real_name": "TuN9aN0",
+            "display_name": "tungano",
+            "team": "T0HJCPP9T",
+            "name": "tungano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ulVz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it used to use webpack and I did migrate along even though it sort of worked.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9C3ABD4B-DC26-4057-8A58-5C55CA90338D",
+        "type": "message",
+        "text": "The build is the weak spot of the Javascript ecosystem. Not because the tools aren't there, but because starting a simple project is so darn complicated. You just about have to have specialized knowledge, or rely on someone else's starter kit",
+        "user": "U01ADRC6GKV",
+        "ts": "1602417845.256500",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "gbbd499d620c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bbd499d620c54910732ef4171691f68f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "LordGreywether",
+            "display_name": "",
+            "team": "T0HJCPP9T",
+            "name": "jon.winsley",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YbUI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The build is the weak spot of the Javascript ecosystem. Not because the tools aren't there, but because starting a simple project is so darn complicated. You just about have to have specialized knowledge, or rely on someone else's starter kit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "083ff17e-c369-4ac8-9889-e67a630dd681",
+        "type": "message",
+        "text": "yeah it's a jungle",
+        "user": "U4XGEJ45S",
+        "ts": "1602419951.258500",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "gd3be27a0229",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bd3be27a0229d0e7ee83f50a96263952.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "TuN9aN0",
+            "real_name": "TuN9aN0",
+            "display_name": "tungano",
+            "team": "T0HJCPP9T",
+            "name": "tungano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "86Sw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah it's a jungle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16c121fb-0756-40fd-b22b-b4b86180ab1c",
+        "type": "message",
+        "text": "yeah, ik",
+        "user": "USW0K60Q5",
+        "ts": "1602421247.259900",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "aef22220deed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001099259280_aef22220deeda5270765_72.png",
+            "first_name": "",
+            "real_name": "Builder V2.0",
+            "display_name": "Builder V2.0",
+            "team": "T0HJCPP9T",
+            "name": "tusy967",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "75Fh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah, ik"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b12f06a8-6121-4794-9b9c-06a2a2435c9b",
+        "type": "message",
+        "text": "i think he left it on npm by choice",
+        "user": "UHD7W50PM",
+        "ts": "1602422282.260200",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "9eacc7bcaa55",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-16\/721928103345_9eacc7bcaa553dec2c99_72.jpg",
+            "first_name": "RayderBlitz",
+            "real_name": "RayderBlitz",
+            "display_name": "RayderBlitz",
+            "team": "T0HJCPP9T",
+            "name": "spoellitzer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LvKC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think he left it on npm by choice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bbcbe734-d8a4-44d5-ac04-c1d064921338",
+        "type": "message",
+        "text": "Yeah, it's a choice :slightly_smiling_face:",
+        "user": "U1P63Q65S",
+        "ts": "1602426497.260800",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "88e7580e7b8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-23\/230465962627_88e7580e7b8e78139d6b_72.png",
+            "first_name": "Kasami",
+            "real_name": "Kasami",
+            "display_name": "kasami",
+            "team": "T0HJCPP9T",
+            "name": "kasami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PXbOF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, it's a choice "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "17b02557-4ae6-4a1d-90b4-48529bb25b4d",
+        "type": "message",
+        "text": "I could make the repo private, but I know a lot of ppl are using it to learn.\nI removed it from steam workshop and \"deleted\" the code to stop most basic users without knowledge about how to get it from other sources.\nThere was already forks available, so the code was out there anyway",
+        "user": "U1P63Q65S",
+        "ts": "1602426599.262600",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "88e7580e7b8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-23\/230465962627_88e7580e7b8e78139d6b_72.png",
+            "first_name": "Kasami",
+            "real_name": "Kasami",
+            "display_name": "kasami",
+            "team": "T0HJCPP9T",
+            "name": "kasami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z5Hk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I could make the repo private, but I know a lot of ppl are using it to learn.\nI removed it from steam workshop and \"deleted\" the code to stop most basic users without knowledge about how to get it from other sources.\nThere was already forks available, so the code was out there anyway"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d621d5e-f77d-4d86-b5ef-8e9d4258296a",
+        "type": "message",
+        "text": "And I wanted to keep it in npm, because it's one of few bots that can be challenging on a private server. Having four simplebots doesn't exactly prepare you for MMO :slightly_smiling_face:",
+        "user": "U1P63Q65S",
+        "ts": "1602426965.263800",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "88e7580e7b8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-23\/230465962627_88e7580e7b8e78139d6b_72.png",
+            "first_name": "Kasami",
+            "real_name": "Kasami",
+            "display_name": "kasami",
+            "team": "T0HJCPP9T",
+            "name": "kasami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1P63Q65S",
+            "ts": "1602426980.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z+Hzh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And I wanted to keep it in npm, because it's one of few bots that can be challenging on a private server. Having four simplebots doesn't exactly prepare you for MMO "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8702c39-543c-45d1-bbc0-2c6d20c3eccd",
+        "type": "message",
+        "text": "New versions of KBot will not be released again, but I have been working on a bot called SampleBot to teach some basic principles (both screeps-principles and programming-principles) to new players.",
+        "user": "U1P63Q65S",
+        "ts": "1602427141.265700",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "88e7580e7b8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-23\/230465962627_88e7580e7b8e78139d6b_72.png",
+            "first_name": "Kasami",
+            "real_name": "Kasami",
+            "display_name": "kasami",
+            "team": "T0HJCPP9T",
+            "name": "kasami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NQOZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "New versions of KBot will not be released again, but I have been working on a bot called SampleBot to teach some basic principles (both screeps-principles and programming-principles) to new players."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4DRMPN21",
+                    "UPK42PDDL",
+                    "U8NSB2YBZ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1602427215.265900",
+        "user": "U01ARBS9XFZ",
+        "text": "<@U01ARBS9XFZ> has joined the channel"
+    },
+    {
+        "client_msg_id": "ca75ef90-49a9-4aab-8131-01c0d2d092a4",
+        "type": "message",
+        "text": "Yea I like that a lot more. This prevents people from simply copying a good implementation and run it on the live servers but still teaches them a lot of important stuff",
+        "user": "UPK42PDDL",
+        "ts": "1602427325.266800",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "g131f94b3210",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/131f94b32105d62a5f84716609dbe93f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "CrystallDEV",
+            "display_name": "CrystallDEV",
+            "team": "T0HJCPP9T",
+            "name": "m.hasselder",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I8SiT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yea I like that a lot more. This prevents people from simply copying a good implementation and run it on the live servers but still teaches them a lot of important stuff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "824ce785-4454-44b9-9f61-ce4644de8cd4",
+        "type": "message",
+        "text": "now, if only there were a realiable way to release a bot so it could only be spawned in as bot user on private servers",
+        "user": "UHD7W50PM",
+        "ts": "1602428272.268200",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "9eacc7bcaa55",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-16\/721928103345_9eacc7bcaa553dec2c99_72.jpg",
+            "first_name": "RayderBlitz",
+            "real_name": "RayderBlitz",
+            "display_name": "RayderBlitz",
+            "team": "T0HJCPP9T",
+            "name": "spoellitzer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yzH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "now, if only there were a realiable way to release a bot so it could only be spawned in as bot user on private servers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba1915b7-9d3e-4038-8e98-912a6cd2e5a3",
+        "type": "message",
+        "text": "We tried figuring out how we could do it with web assembly, but did not find a solution to it",
+        "user": "U1P63Q65S",
+        "ts": "1602428366.269600",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "88e7580e7b8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-08-23\/230465962627_88e7580e7b8e78139d6b_72.png",
+            "first_name": "Kasami",
+            "real_name": "Kasami",
+            "display_name": "kasami",
+            "team": "T0HJCPP9T",
+            "name": "kasami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nx\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We tried figuring out how we could do it with web assembly, but did not find a solution to it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d93109e6-9c0f-4326-a7bd-ea226b498286",
+        "type": "message",
+        "text": "i think if the devs provided some way to distribute bots as .dlls that would already go a long way. we could assume that - usually - anyone getting their hands on the bot could also code something of a similar scale",
+        "user": "UHD7W50PM",
+        "ts": "1602428397.270100",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "9eacc7bcaa55",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-16\/721928103345_9eacc7bcaa553dec2c99_72.jpg",
+            "first_name": "RayderBlitz",
+            "real_name": "RayderBlitz",
+            "display_name": "RayderBlitz",
+            "team": "T0HJCPP9T",
+            "name": "spoellitzer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NysP2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think if the devs provided some way to distribute bots as .dlls that would already go a long way. we could assume that - usually - anyone getting their hands on the bot could also code something of a similar scale"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9d8a3be-41f6-4cd5-b419-e33fdc938948",
+        "type": "message",
+        "text": "though that would of course also require a certain level of trust that nobody knowledgable just distributes pserv bots",
+        "user": "UHD7W50PM",
+        "ts": "1602428438.270800",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "9eacc7bcaa55",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-16\/721928103345_9eacc7bcaa553dec2c99_72.jpg",
+            "first_name": "RayderBlitz",
+            "real_name": "RayderBlitz",
+            "display_name": "RayderBlitz",
+            "team": "T0HJCPP9T",
+            "name": "spoellitzer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f7Og+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "though that would of course also require a certain level of trust that nobody knowledgable just distributes pserv bots"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ed8773f-5df1-4d84-bfbe-65af8849dfcf",
+        "type": "message",
+        "text": "ultimately the issue is only about how hard it is to revert it to its source code, able to be run for users - unless we have some kind of offloading system setup where the bot runs on a dedicated service and servers link in to it, providing the information and specifying which bot",
+        "user": "UHD7W50PM",
+        "ts": "1602428578.272600",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "9eacc7bcaa55",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-16\/721928103345_9eacc7bcaa553dec2c99_72.jpg",
+            "first_name": "RayderBlitz",
+            "real_name": "RayderBlitz",
+            "display_name": "RayderBlitz",
+            "team": "T0HJCPP9T",
+            "name": "spoellitzer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qrf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ultimately the issue is only about how hard it is to revert it to its source code, able to be run for users - unless we have some kind of offloading system setup where the bot runs on a dedicated service and servers link in to it, providing the information and specifying which bot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1602432568.273700",
+        "user": "U01CCV77K3L",
+        "text": "<@U01CCV77K3L> has joined the channel"
+    },
+    {
+        "client_msg_id": "e90bdc2e-c415-4642-ad4d-29456ae0b1c6",
+        "type": "message",
+        "text": "What the devs should do is some type of folding at home system where people can donate their extra CPU to shard calculations. Not sure how much faster that would be.",
+        "user": "UTUVBEB99",
+        "ts": "1602435240.275000",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "eb35ef7e9502",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-10\/1444479337456_eb35ef7e9502947e9fd4_72.png",
+            "first_name": "Mike",
+            "real_name": "Mike Brack",
+            "display_name": "CrAzYDubC",
+            "team": "T0HJCPP9T",
+            "name": "crazydubc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DmEu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What the devs should do is some type of folding at home system where people can donate their extra CPU to shard calculations. Not sure how much faster that would be."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c978d43b-85be-4c4e-be57-ca4db5dc5561",
+        "type": "message",
+        "text": "Security",
+        "user": "U46AY6Q83",
+        "ts": "1602435486.275200",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b2485d8d6552",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-13\/153112539905_b2485d8d65529b72bd00_72.png",
+            "first_name": "T",
+            "real_name": "T igga",
+            "display_name": "Tigga",
+            "team": "T0HJCPP9T",
+            "name": "tigga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xDeKP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Security"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "708a273f-51d9-459a-b79f-41224c527a72",
+        "type": "message",
+        "text": "Consistency of CPU caculations",
+        "user": "U46AY6Q83",
+        "ts": "1602435502.275400",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b2485d8d6552",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-13\/153112539905_b2485d8d65529b72bd00_72.png",
+            "first_name": "T",
+            "real_name": "T igga",
+            "display_name": "Tigga",
+            "team": "T0HJCPP9T",
+            "name": "tigga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2TH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Consistency of CPU caculations"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd6f8868-ebed-4f11-9e04-c8b217c51b97",
+        "type": "message",
+        "text": "All sorts of problems",
+        "user": "U46AY6Q83",
+        "ts": "1602435505.275600",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b2485d8d6552",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-13\/153112539905_b2485d8d65529b72bd00_72.png",
+            "first_name": "T",
+            "real_name": "T igga",
+            "display_name": "Tigga",
+            "team": "T0HJCPP9T",
+            "name": "tigga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NSq2i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All sorts of problems"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e88266f8-cba2-429a-b494-a44ee5adaa36",
+        "type": "message",
+        "text": "Security shouldn't really be an issue if you do it right.\nI think due to the inconsistency of cpu calculations that would never be a thing.",
+        "user": "U7SJC2JLW",
+        "ts": "1602435731.276400",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b33b93e4f2a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-01\/1398110272213_b33b93e4f2a4d9b171a8_72.png",
+            "first_name": "Communication",
+            "real_name": "Communication",
+            "display_name": "Communication",
+            "team": "T0HJCPP9T",
+            "name": "kenny.harrer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tjtK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Security shouldn't really be an issue if you do it right.\nI think due to the inconsistency of cpu calculations that would never be a thing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05dad631-ee19-4836-8ff6-6adac1cf55c0",
+        "type": "message",
+        "text": "The devs probably don't care that our code would be running less efficiently though :\/",
+        "user": "U7SJC2JLW",
+        "ts": "1602435764.276900",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b33b93e4f2a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-01\/1398110272213_b33b93e4f2a4d9b171a8_72.png",
+            "first_name": "Communication",
+            "real_name": "Communication",
+            "display_name": "Communication",
+            "team": "T0HJCPP9T",
+            "name": "kenny.harrer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lIIZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The devs probably don't care that our code would be running less efficiently though :\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e86fdacf-f500-4b0c-a3dc-1f0f5d002e9d",
+        "type": "message",
+        "text": "Sending people's code to third parties? Seems like a security issue to me.",
+        "user": "U46AY6Q83",
+        "ts": "1602435853.277400",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b2485d8d6552",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-13\/153112539905_b2485d8d65529b72bd00_72.png",
+            "first_name": "T",
+            "real_name": "T igga",
+            "display_name": "Tigga",
+            "team": "T0HJCPP9T",
+            "name": "tigga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bY2KR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sending people's code to third parties? Seems like a security issue to me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "295ea0fd-59d9-4107-b865-f962df29505e",
+        "type": "message",
+        "text": "For security you'd need to do each work unit at least twice to ensure consistency. And somehow ensure the same person didn't get two work units.",
+        "user": "U46AY6Q83",
+        "ts": "1602435892.278100",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b2485d8d6552",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-13\/153112539905_b2485d8d65529b72bd00_72.png",
+            "first_name": "T",
+            "real_name": "T igga",
+            "display_name": "Tigga",
+            "team": "T0HJCPP9T",
+            "name": "tigga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mtY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For security you'd need to do each work unit at least twice to ensure consistency. And somehow ensure the same person didn't get two work units."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d2188ea-9ac8-4477-ad9a-391c0c88101e",
+        "type": "message",
+        "text": "hum am i wrong, or spawning invaders in `sim` does not work ?",
+        "user": "UPG2E9Q7L",
+        "ts": "1602436134.278600",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "011510db428b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-02\/966300128659_011510db428b3ecdf2ce_72.png",
+            "first_name": "",
+            "real_name": "Gadjung",
+            "display_name": "Gadjung",
+            "team": "T0HJCPP9T",
+            "name": "gadjung",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ikdA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hum am i wrong, or spawning invaders in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "sim",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " does not work ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c21b966-53d0-4231-9f32-50f85b4efe01",
+        "type": "message",
+        "text": "are you clicking on the border tiles?",
+        "user": "U7SJC2JLW",
+        "ts": "1602436175.278800",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b33b93e4f2a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-01\/1398110272213_b33b93e4f2a4d9b171a8_72.png",
+            "first_name": "Communication",
+            "real_name": "Communication",
+            "display_name": "Communication",
+            "team": "T0HJCPP9T",
+            "name": "kenny.harrer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6bJ0u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are you clicking on the border tiles?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e00d08a-9574-4270-aa88-2d31ca0b33c7",
+        "type": "message",
+        "text": "yup, and not only",
+        "user": "UPG2E9Q7L",
+        "ts": "1602436309.279000",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "011510db428b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-02\/966300128659_011510db428b3ecdf2ce_72.png",
+            "first_name": "",
+            "real_name": "Gadjung",
+            "display_name": "Gadjung",
+            "team": "T0HJCPP9T",
+            "name": "gadjung",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4FT=L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yup, and not only"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01BY8G6955",
+                "created": 1602436339,
+                "timestamp": 1602436339,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U7SJC2JLW",
+                "editable": false,
+                "size": 64228,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0HJCPP9T-F01BY8G6955\/image.png?t=xoxe-17624805333-1427880342614-1419871185111-1987a92ac02b408ef865be91f5adfa32",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0HJCPP9T-F01BY8G6955\/download\/image.png?t=xoxe-17624805333-1427880342614-1419871185111-1987a92ac02b408ef865be91f5adfa32",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0HJCPP9T-F01BY8G6955-6905e72222\/image_64.png?t=xoxe-17624805333-1427880342614-1419871185111-1987a92ac02b408ef865be91f5adfa32",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0HJCPP9T-F01BY8G6955-6905e72222\/image_80.png?t=xoxe-17624805333-1427880342614-1419871185111-1987a92ac02b408ef865be91f5adfa32",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0HJCPP9T-F01BY8G6955-6905e72222\/image_360.png?t=xoxe-17624805333-1427880342614-1419871185111-1987a92ac02b408ef865be91f5adfa32",
+                "thumb_360_w": 360,
+                "thumb_360_h": 106,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0HJCPP9T-F01BY8G6955-6905e72222\/image_480.png?t=xoxe-17624805333-1427880342614-1419871185111-1987a92ac02b408ef865be91f5adfa32",
+                "thumb_480_w": 480,
+                "thumb_480_h": 142,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0HJCPP9T-F01BY8G6955-6905e72222\/image_160.png?t=xoxe-17624805333-1427880342614-1419871185111-1987a92ac02b408ef865be91f5adfa32",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0HJCPP9T-F01BY8G6955-6905e72222\/image_720.png?t=xoxe-17624805333-1427880342614-1419871185111-1987a92ac02b408ef865be91f5adfa32",
+                "thumb_720_w": 720,
+                "thumb_720_h": 213,
+                "original_w": 799,
+                "original_h": 236,
+                "thumb_tiny": "AwAOADClRRS0AJS4pKdnigBtFFFAH\/\/Z",
+                "permalink": "https:\/\/screeps.slack.com\/files\/U7SJC2JLW\/F01BY8G6955\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0HJCPP9T-F01BY8G6955-f33841c647",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U7SJC2JLW",
+        "display_as_bot": false,
+        "ts": "1602436341.279100",
+        "reactions": [
+            {
+                "name": "dorito",
+                "users": [
+                    "UCG2CMMPZ",
+                    "U8NSB2YBZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec9c2e58-d25f-4758-be14-047b19231f4a",
+        "type": "message",
+        "text": "works fine for me.",
+        "user": "U7SJC2JLW",
+        "ts": "1602436345.279500",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b33b93e4f2a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-01\/1398110272213_b33b93e4f2a4d9b171a8_72.png",
+            "first_name": "Communication",
+            "real_name": "Communication",
+            "display_name": "Communication",
+            "team": "T0HJCPP9T",
+            "name": "kenny.harrer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "94opf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "works fine for me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce4737df-ba9b-4d12-a6be-e59873c8beb0",
+        "type": "message",
+        "text": "hm, now they spawn dead after i removed border wall around sim",
+        "user": "UPG2E9Q7L",
+        "ts": "1602436372.279900",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "011510db428b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-02\/966300128659_011510db428b3ecdf2ce_72.png",
+            "first_name": "",
+            "real_name": "Gadjung",
+            "display_name": "Gadjung",
+            "team": "T0HJCPP9T",
+            "name": "gadjung",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Foxb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hm, now they spawn dead after i removed border wall around sim"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9749f896-82cc-4956-be91-7144e24519ae",
+        "type": "message",
+        "text": "because they have nothing to attack",
+        "user": "U7SJC2JLW",
+        "ts": "1602436382.280100",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b33b93e4f2a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-01\/1398110272213_b33b93e4f2a4d9b171a8_72.png",
+            "first_name": "Communication",
+            "real_name": "Communication",
+            "display_name": "Communication",
+            "team": "T0HJCPP9T",
+            "name": "kenny.harrer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bd5\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "because they have nothing to attack"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1da4c8d8-5bce-44e2-a3b8-e4b1b28005b1",
+        "type": "message",
+        "text": "they cant attack your controller :thinking_face:",
+        "user": "U7SJC2JLW",
+        "ts": "1602436393.280400",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b33b93e4f2a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-01\/1398110272213_b33b93e4f2a4d9b171a8_72.png",
+            "first_name": "Communication",
+            "real_name": "Communication",
+            "display_name": "Communication",
+            "team": "T0HJCPP9T",
+            "name": "kenny.harrer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=EHRl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they cant attack your controller "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d13bd1df-bf01-4b65-bd95-80f34aed0713",
+        "type": "message",
+        "text": "nah was spawning healers :d",
+        "user": "UPG2E9Q7L",
+        "ts": "1602436406.280600",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "011510db428b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-02\/966300128659_011510db428b3ecdf2ce_72.png",
+            "first_name": "",
+            "real_name": "Gadjung",
+            "display_name": "Gadjung",
+            "team": "T0HJCPP9T",
+            "name": "gadjung",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=FUjj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nah was spawning healers :d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "306f7901-3bf3-4339-94c4-00b67b090860",
+        "type": "message",
+        "text": "ok works",
+        "user": "UPG2E9Q7L",
+        "ts": "1602436408.280800",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "011510db428b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-02\/966300128659_011510db428b3ecdf2ce_72.png",
+            "first_name": "",
+            "real_name": "Gadjung",
+            "display_name": "Gadjung",
+            "team": "T0HJCPP9T",
+            "name": "gadjung",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hGTm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok works"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a884860e-cbbb-4252-a81c-207e9537bfb3",
+        "type": "message",
+        "text": "btw, is it just me or did the links to rooms get deactived or stop working in the market screen?",
+        "user": "UHD7W50PM",
+        "ts": "1602445147.282100",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "9eacc7bcaa55",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-16\/721928103345_9eacc7bcaa553dec2c99_72.jpg",
+            "first_name": "RayderBlitz",
+            "real_name": "RayderBlitz",
+            "display_name": "RayderBlitz",
+            "team": "T0HJCPP9T",
+            "name": "spoellitzer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HwwZ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "btw, is it just me or did the links to rooms get deactived or stop working in the market screen?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b34bb110-821e-49b8-aea3-46a3640a4e4d",
+        "type": "message",
+        "text": "Not just you, noticed that too but thought I was crazy thinkin' they ever did",
+        "user": "U6KC4TN9Y",
+        "ts": "1602445368.282400",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "e9120bdfe7b8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-31\/714426026695_e9120bdfe7b8e5569d87_72.png",
+            "first_name": "Paul",
+            "real_name": "Paul",
+            "display_name": "donatzor",
+            "team": "T0HJCPP9T",
+            "name": "donatzor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N4Dbp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not just you, noticed that too but thought I was crazy thinkin' they ever did"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1cca46f5-3b38-4301-8133-fa79bbf62989",
+        "type": "message",
+        "text": "<@U3KN4CJGN> i assume that's not on purpose?",
+        "user": "UHD7W50PM",
+        "ts": "1602445387.282600",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "9eacc7bcaa55",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-16\/721928103345_9eacc7bcaa553dec2c99_72.jpg",
+            "first_name": "RayderBlitz",
+            "real_name": "RayderBlitz",
+            "display_name": "RayderBlitz",
+            "team": "T0HJCPP9T",
+            "name": "spoellitzer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nQvD9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U3KN4CJGN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i assume that's not on purpose?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f5bee56-fe67-4b55-bfc9-87ecf762bbc8",
+        "type": "message",
+        "text": "whys my controller saying it can't level up until downgrade timer is active but from what i can see downgrade timer is already active?",
+        "user": "U01C9CYSW3X",
+        "ts": "1602455630.284100",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "g0c5b1b6e60b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0c5b1b6e60b0b6e8cb65a149a66c30ac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Ugh",
+            "display_name": "Ugh",
+            "team": "T0HJCPP9T",
+            "name": "ben.buswell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "78k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "whys my controller saying it can't level up until downgrade timer is active but from what i can see downgrade timer is already active?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55247080-abad-466a-a3fa-51d9bfcd6903",
+        "type": "message",
+        "text": "controller downgraded from l2 to l1 couple hours ago btw",
+        "user": "U01C9CYSW3X",
+        "ts": "1602455642.284600",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "g0c5b1b6e60b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0c5b1b6e60b0b6e8cb65a149a66c30ac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Ugh",
+            "display_name": "Ugh",
+            "team": "T0HJCPP9T",
+            "name": "ben.buswell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8\/XqH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "controller downgraded from l2 to l1 couple hours ago btw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2695a378-08fa-4bf7-b92e-8f512421a9bf",
+        "type": "message",
+        "text": "Are you upgrade blocked?",
+        "user": "U7SJC2JLW",
+        "ts": "1602455800.284900",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b33b93e4f2a4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-01\/1398110272213_b33b93e4f2a4d9b171a8_72.png",
+            "first_name": "Communication",
+            "real_name": "Communication",
+            "display_name": "Communication",
+            "team": "T0HJCPP9T",
+            "name": "kenny.harrer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2qW52",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you upgrade blocked?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e4feff1-5132-41d4-8586-5748a76dbe4d",
+        "type": "message",
+        "text": "Every time you upgrade the downgrade timer should increase by 100",
+        "user": "U46AY6Q83",
+        "ts": "1602455900.285200",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b2485d8d6552",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-13\/153112539905_b2485d8d65529b72bd00_72.png",
+            "first_name": "T",
+            "real_name": "T igga",
+            "display_name": "Tigga",
+            "team": "T0HJCPP9T",
+            "name": "tigga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "isP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Every time you upgrade the downgrade timer should increase by 100"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ecfc395-67ee-4bb0-9289-0c192b434724",
+        "type": "message",
+        "text": "When it reaches the cap, you will go up a level",
+        "user": "U46AY6Q83",
+        "ts": "1602455908.285500",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b2485d8d6552",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-13\/153112539905_b2485d8d65529b72bd00_72.png",
+            "first_name": "T",
+            "real_name": "T igga",
+            "display_name": "Tigga",
+            "team": "T0HJCPP9T",
+            "name": "tigga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rq3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When it reaches the cap, you will go up a level"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09f1b38a-2a17-4775-b19a-39131ac292a3",
+        "type": "message",
+        "text": "`CONTROLLER_DOWNGRADE: {1: 20000, 2: 10000, 3: 20000, 4: 40000, 5: 80000, 6: 120000, 7: 150000, 8: 200000},`",
+        "user": "U46AY6Q83",
+        "ts": "1602455924.285800",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b2485d8d6552",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-13\/153112539905_b2485d8d65529b72bd00_72.png",
+            "first_name": "T",
+            "real_name": "T igga",
+            "display_name": "Tigga",
+            "team": "T0HJCPP9T",
+            "name": "tigga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U46AY6Q83",
+            "ts": "1602455932.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C=X3Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CONTROLLER_DOWNGRADE: {1: 20000, 2: 10000, 3: 20000, 4: 40000, 5: 80000, 6: 120000, 7: 150000, 8: 200000},",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0492b96b-26ff-43c7-952b-eaeb5be9f4cc",
+        "type": "message",
+        "text": "So, 20k",
+        "user": "U46AY6Q83",
+        "ts": "1602455938.286200",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b2485d8d6552",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-13\/153112539905_b2485d8d65529b72bd00_72.png",
+            "first_name": "T",
+            "real_name": "T igga",
+            "display_name": "Tigga",
+            "team": "T0HJCPP9T",
+            "name": "tigga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZAp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So, 20k"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16e6ba88-26a4-4a4f-b590-fe43fe4e23a1",
+        "type": "message",
+        "text": "If that's not happening, link the room",
+        "user": "U46AY6Q83",
+        "ts": "1602455950.286500",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "b2485d8d6552",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-13\/153112539905_b2485d8d65529b72bd00_72.png",
+            "first_name": "T",
+            "real_name": "T igga",
+            "display_name": "Tigga",
+            "team": "T0HJCPP9T",
+            "name": "tigga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pb7K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If that's not happening, link the room"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eb8b730d-142d-484f-b85e-680e10268eb7",
+        "type": "message",
+        "text": "Recoverting decorations back into pixels still not wokring?",
+        "user": "U2LSBRBRB",
+        "ts": "1602462699.286900",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "g47ea55692b0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/747ea55692b0531050a63131bafe9e22.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Cysote",
+            "real_name": "Cysote",
+            "display_name": "Cysote",
+            "team": "T0HJCPP9T",
+            "name": "cysote",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z7q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Recoverting decorations back into pixels still not wokring?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02655833-4739-4811-87c1-bcee0f0703ff",
+        "type": "message",
+        "text": "If you select it w\/ multiselect works fine",
+        "user": "U6KC4TN9Y",
+        "ts": "1602462748.287200",
+        "team": "T0HJCPP9T",
+        "user_team": "T0HJCPP9T",
+        "source_team": "T0HJCPP9T",
+        "user_profile": {
+            "avatar_hash": "e9120bdfe7b8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-31\/714426026695_e9120bdfe7b8e5569d87_72.png",
+            "first_name": "Paul",
+            "real_name": "Paul",
+            "display_name": "donatzor",
+            "team": "T0HJCPP9T",
+            "name": "donatzor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0tp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you select it w\/ multiselect works fine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1602471813.287800",
+        "user": "U01BYKURL6B",
+        "text": "<@U01BYKURL6B> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1602478648.288300",
+        "user": "U01CDCX6KGA",
+        "text": "<@U01CDCX6KGA> has joined the channel"
+    }
+]

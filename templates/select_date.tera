@@ -1,0 +1,14 @@
+{% extends "layout.tera" %}
+
+{% block title %}
+Select date
+{% endblock %}
+
+{% block content %}
+Selet date
+{% for date in dates_available %}
+    <div class="date">
+        <a href="/{{channel_id}}/{{date}}">{{date}}</a>
+    </div>
+{% endfor %}
+{% endblock %}

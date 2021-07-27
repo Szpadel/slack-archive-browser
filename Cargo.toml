@@ -1,0 +1,31 @@
+[package]
+name = "slack"
+version = "0.1.0"
+authors = ["Piotr Rogowski <piotrekrogowski@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = { version = "^1.0", features = [ "derive" ] }
+serde_json = "^1.0"
+chrono = { version ="^0.4", features = [ "serde" ] }
+lru = "^0.6"
+anyhow = "^1.0"
+log = "^0.4"
+fern = "^0.5"
+actix-web = "3"
+parking_lot = { version = "^0.11", features = ["nightly"] }
+tera = "^1.0"
+include_dir = "^0.6"
+lazy_static = "^1.4"
+
+[profile.bench]
+codegen-units = 1
+lto = true
+opt-level = 3
+
+[profile.release]
+codegen-units = 1
+lto = true
+opt-level = 3

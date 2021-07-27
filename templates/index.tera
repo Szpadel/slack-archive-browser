@@ -1,0 +1,9 @@
+{% extends "layout.tera" %}
+
+{% block title%}
+Welcome
+{% endblock %}
+
+{% block content %}
+Hello there, please select a channel to view
+{% endblock %}

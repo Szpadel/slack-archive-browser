@@ -1,0 +1,7 @@
+<span style="color: #{{color}}">
+{% if profile.display_name != "" %}
+    {{ profile.display_name }}
+{% else %}
+    {{ name }}
+{% endif %}
+</span>

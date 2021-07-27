@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel="stylesheet" href="/static/bulma.min.css" />
+    <link rel="stylesheet" href="/static/styles.css" />
+    <title>{% block title %}{% endblock title %} - Slack Archive Browser</title>
+    {% endblock head %}
+</head>
+<body>
+    {% block body %}
+    <div class="columns">
+        {{ render_channels() }}
+        <div class="content column">
+            {% block content %}{% endblock %}
+        </div>
+    </div>
+    {% endblock body %}
+</body>
+</html>

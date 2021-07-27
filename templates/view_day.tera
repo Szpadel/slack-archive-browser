@@ -1,0 +1,11 @@
+{% extends "layout.tera" %}
+
+{% block title %}
+View channel
+{% endblock %}
+
+{% block content %}
+<div class="history">
+{{ messages | safe }}
+</div>
+{% endblock %}
